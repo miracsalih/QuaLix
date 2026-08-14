@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Miraç Salih İşler
+ * SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+ */
+
 #define Q "\n"
 #include <complex>
 #include <iostream>
