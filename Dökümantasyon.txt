@@ -1,7 +1,7 @@
 ================================================================
 QuaLix v2.5 - Düzen Mimarisi Assembler Dili Dokümantasyonu
 ================================================================
-Yazan : Micraçer Geliştirici Ekibi
+Yazan : Miraç Salih
 Hedef : KodLib-Verse Ekosistem Geliştiricileri
 Platform : Pardus/Linux (Host Sistem)
 Giriş : .tbdd kaynak dosyasını .trbin ikili çıktısına çevirir.
@@ -387,5 +387,5 @@ DOSYA UZANTILARI
 .trbin : QuaLix çıktı dosyası (Düzen mimarisi ikili verisi)
 
 ================================================================
-Son güncelleme: QuaLix v2.5 - 1 Mayıs 2026
+Son güncelleme: QuaLix v2.5 - 14 Ağustos 2026
 ================================================================
