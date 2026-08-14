@@ -27,7 +27,7 @@ sudo apt install -y g++ make git
 ───────────────────────────────────────────────────────────────────
 
 # Kaynak kodu indir
-git clone https://github.com/MicraP-TR/QuaLix.cpp
+git clone https://github.com/miracsalih/QuaLix-v2,5.cpp
 cd QuaLix
 
 # Derle
