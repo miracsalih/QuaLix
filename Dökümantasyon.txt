@@ -1,7 +1,7 @@
 ================================================================
 QuaLix v1.0 - Düzen Mimarisi Assembler Dili Dokümantasyonu
 ================================================================
-Yazan     : Micraçer Geliştirici Ekibi
+Yazan     : Miraç Salih İşler
 Hedef     : KodLib-Verse Ekosistem Geliştiricileri
 Platform  : Pardus/Linux (Host Sistem)
 Giriş     : .tbdd kaynak dosyasını .trbin ikili çıktısına çevirir.
