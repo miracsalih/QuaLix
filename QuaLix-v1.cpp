@@ -1,7 +1,3 @@
-/* Copyright (c) 2026 Miraç Salih İşler
- * SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
- */
-
 // This file is compiled using a Linux system. It will not work on Windows. However, it is theoretically compatible with macOS, but this is not guaranteed.
 #define Q "\n"
 #include <iostream>
